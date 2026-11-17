@@ -25,7 +25,7 @@ repositories:
 
 website: "https://kanister.io"
 
-artwork: "https://landscape.cncf.io/logos/kanister.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kanister"
 
 adopters:
   path: "https://github.com/kanisterio/kanister/blob/master/ADOPTERS.md"
